@@ -1,0 +1,5 @@
+C:\Users\HOPE\source\repos\calc\calc.exe
+C:\Users\HOPE\source\repos\calc\calc.dll
+C:\Users\HOPE\source\repos\calc\calc.deps.json
+C:\Users\HOPE\source\repos\calc\calc.runtimeconfig.json
+C:\Users\HOPE\source\repos\calc\calc.pdb

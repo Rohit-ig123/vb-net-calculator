@@ -1,0 +1,16 @@
+C:\Users\HOPE\source\repos\calc\bin\Release\net8.0-windows\calc.exe
+C:\Users\HOPE\source\repos\calc\bin\Release\net8.0-windows\calc.deps.json
+C:\Users\HOPE\source\repos\calc\bin\Release\net8.0-windows\calc.runtimeconfig.json
+C:\Users\HOPE\source\repos\calc\bin\Release\net8.0-windows\calc.dll
+C:\Users\HOPE\source\repos\calc\bin\Release\net8.0-windows\calc.pdb
+C:\Users\HOPE\source\repos\calc\obj\Release\net8.0-windows\calc.Form1.resources
+C:\Users\HOPE\source\repos\calc\obj\Release\net8.0-windows\calc.vbproj.GenerateResource.cache
+C:\Users\HOPE\source\repos\calc\obj\Release\net8.0-windows\calc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HOPE\source\repos\calc\obj\Release\net8.0-windows\calc.AssemblyInfoInputs.cache
+C:\Users\HOPE\source\repos\calc\obj\Release\net8.0-windows\calc.AssemblyInfo.vb
+C:\Users\HOPE\source\repos\calc\obj\Release\net8.0-windows\calc.vbproj.CoreCompileInputs.cache
+C:\Users\HOPE\source\repos\calc\obj\Release\net8.0-windows\calc.dll
+C:\Users\HOPE\source\repos\calc\obj\Release\net8.0-windows\refint\calc.dll
+C:\Users\HOPE\source\repos\calc\obj\Release\net8.0-windows\calc.pdb
+C:\Users\HOPE\source\repos\calc\obj\Release\net8.0-windows\calc.genruntimeconfig.cache
+C:\Users\HOPE\source\repos\calc\obj\Release\net8.0-windows\ref\calc.dll
